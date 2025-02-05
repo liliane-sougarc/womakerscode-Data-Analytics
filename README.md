@@ -58,7 +58,6 @@ Este repositório será constantemente atualizado com:
 - 📄 **Materiais de apoio** (artigos, slides e guias)
 - 📝 **Exercícios e desafios práticos**
 - 📊 **Projetos de análise de dados**
-- 🎥 **Links para gravações e webinars**
 - 💡 **Dicas para carreira em Data Analytics**
 
 ## 🚀 Como Utilizar este Repositório?
